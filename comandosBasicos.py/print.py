@@ -1,1 +1,0 @@
-print("comando pra mostra na tela")
